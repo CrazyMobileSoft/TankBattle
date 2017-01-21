@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "866102037205",
+    "firebase_url": "https://tankbattle-eed66.firebaseio.com",
+    "project_id": "tankbattle-eed66",
+    "storage_bucket": "tankbattle-eed66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866102037205:android:47d4b511a0104d40",
+        "android_client_info": {
+          "package_name": "m.tankbattle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866102037205-nb7s3bf5ga13pj8t1dn1hvmcnd94tiiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "m.tankbattle",
+            "certificate_hash": "0CA733DC55F63B3A4CF22C616F6F8DAC58DF95E2"
+          }
+        },
+        {
+          "client_id": "866102037205-v3dv9o5bvlq6so65dheiter0pnv4m93l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAtQE8I98NE9Q6ayyLLy26RNtr0uruVvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866102037205-v3dv9o5bvlq6so65dheiter0pnv4m93l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
